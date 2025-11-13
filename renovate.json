@@ -8,5 +8,9 @@
 ":prConcurrentLimitNone",
 ":prHourlyLimitNone",
 ":preserveSemverRanges"
-]
+],
+"packageRules": [{
+  "matchPackageNames": ["bitbadgesjs-sdk"],
+  "allowedVersions": "<0.23.0"
+}]
 }
