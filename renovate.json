@@ -21,12 +21,6 @@
         "minor",
         "patch"
       ]
-    },
-  {
-      "allowedVersions": "<0.23.0",
-    "matchPackageNames": [
-        "*"
-      ]
-  }
+    }
   ]
 }
