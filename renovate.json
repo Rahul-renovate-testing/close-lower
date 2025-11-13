@@ -20,7 +20,13 @@
       "matchUpdateTypes": [
         "minor",
         "patch"
-      ],
-    "allowedVersions": "<0.23.0"
-    }]
+      ]
+    },
+  {
+      "allowedVersions": "<0.23.0",
+    "matchPackageNames": [
+        "*"
+      ]
+  }
+  ]
 }
